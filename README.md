@@ -1,6 +1,12 @@
 # fcitx-skin-material
 A Material Design-like skin for Fcitx.
 
+## Material Arc Blue
+
+![preview-arc-blue](./preview/material-arc-blue.png)
+
+
+
 # インストール
 ## Fcitx 4
 `material` フォルダを `~/.config/fcitx/skin` にコピーします。  
